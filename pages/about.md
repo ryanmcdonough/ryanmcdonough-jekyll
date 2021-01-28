@@ -10,6 +10,8 @@ intro_paragraph: |
 
 ### You can find me
 
-On Twitter @ryanmcdonough
-On Github /ryanmcdonough
-On Stackoverflow https://stackoverflow.com/users/442624/ryan-mcdonough
+On Twitter [@ryanmcdonough](https://www.twitter.com/ryanmcdonough)
+
+On Twitter [/ryanmcdonough](https://www.github.com/ryanmcdonough)
+
+On Stackoverflow [ryan-mcdonough](https://stackoverflow.com/users/442624/ryan-mcdonough)
