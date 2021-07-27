@@ -17,7 +17,7 @@ Now if you're lucky it's early on in the platform's life, you're a big customer 
 
 "Don't worry we can run that for you, just upload the documents to this data room and we'll do the rest"
 
-And you're saved. The platform has managed to quickly turn around a job that would have taken 3 people the entire weekend to do. They then release change the uploader to deal with 100 documents at a time and they add in a feature to allow you to add a logo to the page.
+And you're saved. The platform has managed to quickly turn around a job that would have taken 3 people the entire weekend to do. They then release a change which providers an uploader to deal with 100 documents at a time and they add in a feature to allow you to add a logo to the page.
 
 ## But then...
 
