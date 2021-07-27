@@ -1,4 +1,5 @@
 
+
 # Why we need more Legal APIs
 
 In legal tech we are surrounded by so many incredible solutions for contract management, document storage, document automation, e-signature platforms and will writing amongst many others - these could be platforms providing the whole end to end solution covering many of these features or they could be point solutions covering one or two of these specific niches.
@@ -49,6 +50,15 @@ However, a lot of legal tech platforms don't have standardised documented APIs t
 
 ## What needs to happen
 
-Legal tech providers need to start providing public, documented, standardised APIs that provide all the functionality that can be provided over an API and they need to begin [dogfooding](https://deviq.com/practices/dogfooding) their APIs to make sure they do what they say they do.
+Legal tech providers need to start providing public, documented, standardised APIs that provide all the functionality available in on the platform via an API and they need to begin [dogfooding](https://deviq.com/practices/dogfooding) their APIs to make sure they do what they say they do.
 
 Not only does this benefit the customer of the platform, but it also makes the platform much more useful to the customer knowing that it can be used beyond the base functionality provided.
+
+## What would happen then?
+
+Well with more and more platforms providing APIs we'd see even greater innovation and competition between the platforms as they strive to provide better experiences not only for developers but also the day to day users of the platform. 
+
+We'd also see a huge uptake in no/low code platforms, with even more APIs available to connect the options for legal technologists to be able to build complex systems chaining together several platforms to produce outputs greater than the sum of it's parts.
+
+When the expectations of what a system can do are no longer bound by the roadmap of a platform and are instead available to anyone then the sky is truly the limit.
+
