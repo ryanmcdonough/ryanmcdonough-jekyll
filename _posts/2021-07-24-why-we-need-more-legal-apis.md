@@ -28,7 +28,7 @@ However over time the platforms grow and grow, they have different processes tha
 
 They can't help - they have features they need to release and they can no longer just add in a quick change for you as it could impact overall stability.
 
-You're stuck, the platform will do it's 100 documents at a time, and add a single logo but we'll have to download each of those manually, rename the new file to be different to the old and add our review and it'll need to be done 100 times to get through the documents sent over.
+You're stuck, the platform will do it's 100 documents at a time, and add a single logo but you'll have to download each of those manually, rename the new file to be different to the old and add our review and it'll need to be done 100 times to get through the documents sent over.
 
 ## So when do Legal APIs help exactly?
 
