@@ -9,13 +9,13 @@ The benefit of these services is clear, no one law firm can build all these tool
 
 At the beginning these platforms are fantastic, you upload a document and it gives you back a breakdown or you fill in a form and out pops a contract and these platforms do it incredibly well, but then in comes a request:
 
-<blockquote>We need to be able to import 500 documents and get that breakdown and then send it back to the client with new branding and our review of the breakdown</blockquote>
+"We need to be able to import 500 documents and get that breakdown and then send it back to the client with new branding and our review of the breakdown"
 
 Now you've reviewed the platform and it only does 10 documents at a time and we can't add the branding they want in that platform so someone will need to go through each document and do that as they are completed.
 
 Now if you're lucky it's early on in the platform's life, you're a big customer and you message them and they go
 
-<blockquote>Don't worry we can run that for you, just upload the documents to this data room and we'll do the rest</blockquote>
+"Don't worry we can run that for you, just upload the documents to this data room and we'll do the rest"
 
 And you're saved. The platform has managed to quickly turn around a job that would have taken 3 people the entire weekend to do. They then release change the uploader to deal with 100 documents at a time and they add in a feature to allow you to add a logo to the page.
 
@@ -23,7 +23,7 @@ And you're saved. The platform has managed to quickly turn around a job that wou
 
 However over time the platforms grow and grow, they have different processes that evolve to maintain stability for all the other customers, they have a backlog and next time a request comes through:
 
-<blockquote>We need to be able to import 10,000 documents and get that breakdown and then send it back to the client with new branding and our review of the breakdown alongside the original copy.</blockquote>
+"We need to be able to import 10,000 documents and get that breakdown and then send it back to the client with new branding and our review of the breakdown alongside the original copy."
 
 They can't help - they have features they need to release and they can no longer just add in a quick change for you as it could impact overall stability.
 
@@ -41,7 +41,7 @@ To achieve this the developers might make use of a few different platforms, none
 
 ## Current state of affairs
 
-<blockquote>At Amazon, Jeff Bezos famously issued a mandate around 2002 requiring all teams to expose their data and functionality via (APIs), and for all teams to communicate with each other through these (APIs).</blockquote>
+"At Amazon, Jeff Bezos famously issued a mandate around 2002 requiring all teams to expose their data and functionality via (APIs), and for all teams to communicate with each other through these (APIs)."
 
 This meant that internally when building platforms at Amazon they couldn't just build a service only they could use that used some direct connection that no one else could use, everything needed an API and it meant that the public APIs that Amazon eventually provided in their massively successful AWS had been used internally by teams for ages.
 
