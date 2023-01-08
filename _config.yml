@@ -55,6 +55,9 @@ defaults:
 # Build settings
 markdown: kramdown
 
+plugins:
+  - jekyll-feed
+
 # Kramdown options
 kramdown:
   # Prevent IDs from being added to h1-h6 tags
