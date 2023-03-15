@@ -34,4 +34,4 @@ However if there are incredible solutions out there with an API already availabl
 
 ## So...
 
-Creating legal tech software right inside a law firm is a super exciting way to make the legal industry more efficient and tech-savvy. By understanding the benefits, tackling the challenges, and following some real-world advice, law firms can build their own software solutions that'll have a huge impact on how they work. Let's go.
+Creating legal tech software right inside a law firm is a super exciting way to make the legal industry more efficient and tech-savvy. By understanding the benefits, tackling the challenges, and following some real-world advice, we can build our own software solutions that'll have a huge impact on how we work. Let's go.
