@@ -1,6 +1,6 @@
-## Let's build it ourselves
+# Let's build it ourselves
 
-Hey there! So, we all know the legal world is embracing the digital age (finally!), and legal tech software is a big part of that change. But, what if we took it one step further and built this awesome software right inside a law firm? In this blog post, we'll chat about the benefits and challenges of cooking up legal tech software in-house and share some real-world tips for making it happen.
+So, we all know the legal world is embracing the digital age, and legal tech software is a big part of that change. But, what if we took it one step further and built this awesome software right inside a law firm? In this blog post, I'll chat about the benefits and challenges of creating legal tech software in-house and share some real-world tips for making it happen.
 
 ## Benefits of Making Legal Tech Software In-House
 
