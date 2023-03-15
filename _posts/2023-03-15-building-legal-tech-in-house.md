@@ -6,7 +6,7 @@ The legal industry is no stranger to the digital revolution. Technological advan
 
 - Tailored Solutions:
 
- Developing software within a law firm ensures that the end product is designed specifically to address the unique needs and challenges of that firm. This customization leads to a more efficient and user-friendly solution, enabling attorneys and staff to work smarter, not harder.
+ Developing software within a law firm ensures that the end product is designed specifically to address the unique needs and challenges of that firm. This customization leads to a more efficient and user-friendly solution, enabling lawyers and supporting staff to work smarter, not harder.
 
 - Improved Integration:
 
