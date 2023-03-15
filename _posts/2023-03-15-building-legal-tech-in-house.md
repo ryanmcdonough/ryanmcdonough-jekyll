@@ -10,7 +10,9 @@ So, we all know the legal world is embracing the digital age, and legal tech sof
 
 3. **Super Security**: Law firms deal with tons of confidential info every day. Keeping the development in-house means you've got way more control over data security and keeping your clients' secrets safe. As long as you use standards, don't roll your own... please
 
-4. **Saving That Cash**: Sure, the initial investment might be a bit steeper, but in the long run, you'll save some serious cash. No more licensing fees, and you can keep improving your software without shelling out extra cash. However if there are incredible solutions out there with an API already available, take a look. Not point reinventing the wheel. 
+4. **Saving That Cash**: Sure, the initial investment might be a bit steeper, but in the long run, you'll save some serious cash. No more licensing fees, and you can keep improving your software without shelling out extra cash. 
+
+However if there are incredible solutions out there with an API already available, take a look. No point in reinventing the wheel. You want to avoid vendor lock-in, but not hiding away from awesome tech.
 
 ## Challenges of Cooking Up Legal Tech Software In-House
 
@@ -30,6 +32,6 @@ So, we all know the legal world is embracing the digital age, and legal tech sof
 
 4. **Listen Up**: Get input from the people who'll use the software every day. Their feedback is priceless for making sure your software is a hit.
 
-## Conclusion
+## So...
 
 Creating legal tech software right inside a law firm is a super exciting way to make the legal industry more efficient and tech-savvy. By understanding the benefits, tackling the challenges, and following some real-world advice, law firms can build their own software solutions that'll have a huge impact on how they work. Let's go.
