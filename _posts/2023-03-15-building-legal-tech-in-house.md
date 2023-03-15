@@ -19,7 +19,7 @@ So, we all know the legal world is embracing the digital age, and legal tech sof
 
 1. **Teamwork Makes the Dream Work**: Gather a group of legal and tech whizzes who are all about innovation and dedicated to your project. Give them the power to make decisions and the resources they need to succeed.
 2. **Collaborate Like a Pro**: Make sure your legal and tech teams talk to each other and work together. This way, they'll understand each other's challenges and create an even better final product.
-3. **Plan for Growth**: Design your software with the future in mind. If your firm grows or changes, your software should be able to keep up.
+3. **Plan for Growth**: Design your software with the future in mind. If your firm grows or changes, your software should be able to keep up. I really can't emphasise this enough, your project will suddenly have a huge client and then the weird hardcoded things you've written will not fair well.
 4. **Listen Up**: Get input from the people who'll use the software every day. Their feedback is priceless for making sure your software is a hit.
 
 ## Conclusion
