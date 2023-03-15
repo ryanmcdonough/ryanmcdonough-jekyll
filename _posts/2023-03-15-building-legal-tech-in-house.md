@@ -1,10 +1,10 @@
-# Let's build it ourselves
+## Let's build it ourselves
 
 So, we all know the legal world is embracing the digital age, and legal tech software is a big part of that change. But, what if we took it one step further and built this awesome software right inside a law firm? In this blog post, I'll chat about the benefits and challenges of creating legal tech software in-house and share some real-world tips for making it happen.
 
 <img src="https://media.tenor.com/vb-Dh83JXycAAAAd/yikes-gif.gif" />
 
-## Benefits of Making Legal Tech Software In-House
+# Benefits of Making Legal Tech Software In-House
 
 1. **Custom Creations**: Building software in your law firm means you can create something that's perfect for your unique needs and challenges. No more trying to fit a square peg in a round hole – it's all about working smarter, not harder!
 
@@ -16,7 +16,7 @@ So, we all know the legal world is embracing the digital age, and legal tech sof
 
 However if there are incredible solutions out there with an API already available, take a look. No point in reinventing the wheel. You want to avoid vendor lock-in, but not hiding away from awesome tech.
 
-## Challenges of Cooking Up Legal Tech Software In-House
+# Challenges of Cooking Up Legal Tech Software In-House
 
 1. **The Expertise Game**: Creating legal tech software needs a mix of legal and tech know-how. Finding the right people or training your existing team can be tough. Looking at the team and your wider supporting base can really help with those buy/build decision.
 
@@ -24,7 +24,7 @@ However if there are incredible solutions out there with an API already availabl
 
 3. **Keeping Up with (the never ending flow of) Tech**: Technology is always changing, so staying on top of new trends is a must. You'll need to commit to continuous research and development to keep your software & understanding fresh.
 
-## Real-World Tips for Making It Happen
+# Real-World Tips for Making It Happen
 
 1. **Teamwork Makes the Dream Work**: Gather a group of legal and tech experts who are all about innovation and dedicated to your project. Give them the power to make decisions and the resources they need to succeed. This really is key, without this mix of people it'll be so much harder to build what you want/need.
 
@@ -34,6 +34,6 @@ However if there are incredible solutions out there with an API already availabl
 
 4. **Listen Up**: Get input from the people who'll use the software every day. Their feedback is priceless for making sure your software is a hit.
 
-## So...
+# So...
 
 Creating legal tech software right inside a law firm is a super exciting way to make the legal industry more efficient and tech-savvy. By understanding the benefits, tackling the challenges, and following some real-world advice, we can build our own software solutions that'll have a huge impact on how we work. Let's go.
