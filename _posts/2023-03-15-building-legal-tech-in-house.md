@@ -2,6 +2,8 @@
 
 So, we all know the legal world is embracing the digital age, and legal tech software is a big part of that change. But, what if we took it one step further and built this awesome software right inside a law firm? In this blog post, I'll chat about the benefits and challenges of creating legal tech software in-house and share some real-world tips for making it happen.
 
+<img src="https://media.tenor.com/vb-Dh83JXycAAAAd/yikes-gif.gif" />
+
 ## Benefits of Making Legal Tech Software In-House
 
 1. **Custom Creations**: Building software in your law firm means you can create something that's perfect for your unique needs and challenges. No more trying to fit a square peg in a round hole – it's all about working smarter, not harder!
