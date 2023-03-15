@@ -6,9 +6,9 @@ So, we all know the legal world is embracing the digital age, and legal tech sof
 
 1. **Custom Creations**: Building software in your law firm means you can create something that's perfect for your unique needs and challenges. No more trying to fit a square peg in a round hole – it's all about working smarter, not harder!
 
-2. **Integration Station**: In-house development lets you blend your new software seamlessly with your existing systems and processes. No worries that the new systems you've bought in doesn't integrate with any of your existing tech.
+2. **Integration Station**: In-house development lets you blend your new solution with your existing systems and processes. No worrying that the new system you've bought in doesn't integrate with any of your existing tech.
 
-3. **Super Security**: Law firms deal with tons of confidential info every day. Keeping the development in-house means you've got way more control over data security and keeping your clients' secrets safe. As long as you use standards, don't roll your own... please
+3. **(Potentially) Super Security**: We deal with tons of confidential info every day. Keeping the development in-house means you've got way more control over data security and keeping your clients' secrets safe. As long as you use standards, don't roll your own crypto... please
 
 4. **Saving That Cash**: Sure, the initial investment might be a bit steeper, but in the long run, you'll save some serious cash. No more licensing fees, and you can keep improving your software without shelling out extra cash. 
 
