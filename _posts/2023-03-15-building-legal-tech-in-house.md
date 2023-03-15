@@ -18,7 +18,7 @@ However if there are incredible solutions out there with an API already availabl
 
 ## Challenges of Cooking Up Legal Tech Software In-House
 
-1. **The Expertise Game**: Creating legal tech software needs a mix of legal and tech know-how. Finding the right people or training your existing team can be tough.
+1. **The Expertise Game**: Creating legal tech software needs a mix of legal and tech know-how. Finding the right people or training your existing team can be tough. Looking at the team and your wider supporting base can really help with those buy/build decision.
 
 2. **Resource Juggling**: Making software in-house is time-consuming and takes resources away from other parts of your business. You'll need to decide if the benefits are worth the trade-offs.
 
