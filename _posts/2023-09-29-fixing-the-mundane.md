@@ -5,7 +5,7 @@ Legal tech products are drawing substantial investment. Yet, the endeavor to rep
 
 Imagine securing a large re-organisation project with about 400 entities, each requiring verification of on-file details accuracy. And what if the onus to draft a diligence questionnaire for this behemoth task falls on you? You understand what questions need answering to achieve this however crafting questions that are comprehensive, yet easily decipherable for the respondents is no easy feat - **it’s not necessarily what you signed up for**. Oh and of course it needs doing as soon as possible because there’s a lot of work that needs doing once the questionnaire is ready.
 
-Now, between you and me **do you know your firm's stance on contractions and times** when drafting? Of course you do, you know all of the 40 sections from the style guide and how they apply when drafting a contract vs writing a question for a form.
+Now, between you and me **do you know your firm's stance on contractions and times** when drafting? You know you use "it is" rather than "it's" and it obviously "5:00pm not 17:00" - Of course you do, you know all of the other 40+ sections from the style guide and how they apply when drafting a contract vs writing a question for a form.
 
 Okay, so we have our problem we need to write succinct questions for a due diligence questionnaire that is easily readable by the respondent but is also consistent with our style book and most importantly that style is consistent across the 15 or so questions we draft.
 
@@ -14,7 +14,7 @@ Okay, so we have our problem we need to write succinct questions for a due dilig
 So we have a basic form builder here, where users can add a question - let's add that inital question I've drafted to find out about employee overtime.
 
   
-  ![Image of a basic single input form builder](https://ryanmcdonough.co.uk/assets/img/uploads/form-1.png){:width="90%"}
+<img src="https://ryanmcdonough.co.uk/assets/img/uploads/form-1.png" alt="Image of a basic single input form builder" style="width:90%;"/>
   
 
 Let's start with the form building aspect, we can incorporate code that briefs our generative AI system on the specific stylebook - as well as the overall aims. We can start to craft a prompt like this:
@@ -30,7 +30,7 @@ Let's start with the form building aspect, we can incorporate code that briefs o
 
 Great - let’s add that into our form builder code base so when the user has finished writing their question, voila - a recommendation appears to the side which they can choose to accept or not. We're not automating people's roles , we're just trying to help people get their job done quicker.
 
-  ![Form builder showing a Gen AI suggestion of question improvement](https://ryanmcdonough.co.uk/assets/img/uploads/form-2.png){:width="90%"}
+<img src="https://ryanmcdonough.co.uk/assets/img/uploads/form-2.png" alt="Form builder showing a Gen AI suggestion of question improvement" style="width:90%;"/>
   
 
 **But Ryan, I hear you say: “They don’t know why it’s changed” - very good point.**
@@ -42,6 +42,6 @@ Let’s update the prompt:
     { "question": string, "explanation" : string }
 
   
-![Form builder showing a Gen AI suggestion of question improvement as well as reasoning](https://ryanmcdonough.co.uk/assets/img/uploads/form-3.png){:width="90%"}
+<img src="https://ryanmcdonough.co.uk/assets/img/uploads/form-3.png" alt="Form builder showing a Gen AI suggestion of question improvement as well as reasoning" style="width:90%;"/>
 
 And there we have it a simple addition to a system that will allow for anyone to start drafting the questions knowing that they’ll be improved to be more succinct as well updated to follow the style book of their firm.
