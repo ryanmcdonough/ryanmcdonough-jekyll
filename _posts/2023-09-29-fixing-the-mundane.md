@@ -14,7 +14,7 @@ Okay, so we have our problem we need to write succinct questions for a due dilig
 So we have a basic form builder here, where users can add a question - let's add that inital question I've drafted to find out about employee overtime.
 
   
-  ![Image of a basic single input form builder](https://ryanmcdonough.co.uk/assets/img/uploads/form-1.png)
+  ![Image of a basic single input form builder](https://ryanmcdonough.co.uk/assets/img/uploads/form-1.png){:width="90%"}
   
 
 Let's start with the form building aspect, we can incorporate code that briefs our generative AI system on the specific stylebook - as well as the overall aims. We can start to craft a prompt like this:
@@ -30,7 +30,7 @@ Let's start with the form building aspect, we can incorporate code that briefs o
 
 Great - let’s add that into our form builder code base so when the user has finished writing their question, voila - a recommendation appears to the side which they can choose to accept or not. We're not automating people's roles , we're just trying to help people get their job done quicker.
 
-  ![Form builder showing a Gen AI suggestion of question improvement](https://ryanmcdonough.co.uk/assets/img/uploads/form-2.png)
+  ![Form builder showing a Gen AI suggestion of question improvement](https://ryanmcdonough.co.uk/assets/img/uploads/form-2.png){:width="90%"}
   
 
 **But Ryan, I hear you say: “They don’t know why it’s changed” - very good point.**
@@ -42,6 +42,6 @@ Let’s update the prompt:
     { "question": string, "explanation" : string }
 
   
-![Form builder showing a Gen AI suggestion of question improvement as well as reasoning](https://ryanmcdonough.co.uk/assets/img/uploads/form-3.png)
+![Form builder showing a Gen AI suggestion of question improvement as well as reasoning](https://ryanmcdonough.co.uk/assets/img/uploads/form-3.png){:width="90%"}
 
 And there we have it a simple addition to a system that will allow for anyone to start drafting the questions knowing that they’ll be improved to be more succinct as well updated to follow the style book of their firm.
